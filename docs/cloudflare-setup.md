@@ -33,7 +33,7 @@ O deploy já inclui:
 
 | Origem | Destino | Código |
 |--------|---------|--------|
-| `/whatsapp` | WhatsApp do Mikael | 302 |
+| `/whatsapp` | WhatsApp do João Novaes | 302 |
 | `/instagram` | @mikaelpsicologo | 302 |
 
 ## 5. Headers de segurança

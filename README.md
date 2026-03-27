@@ -1,6 +1,6 @@
-# Psicólogo Mikael Caetano - Website
+# Psicólogo João Novaes - Website
 
-Website profissional para o Psicólogo Mikael Caetano (CRP 12/25111), especialista em Hipnose Clínica, PNL e Terapia da Linha do Tempo.
+Website profissional para o Psicólogo João Novaes (CRK 00/00000), especialista em Hipnose Clínica, PNL e Terapia da Linha do Tempo.
 
 **Site estático** | **Cloudflare Pages** | **Criciúma/SC**
 
@@ -64,8 +64,8 @@ Hospedado no **Cloudflare Pages** conectado a este repositório. O deploy é aut
 
 ## Contato do cliente
 
-- **Nome:** Mikael Caetano
-- **CRP:** 12/25111
+- **Nome:** João Novaes
+- **CRK:** 00/00000
 - **WhatsApp:** (48) 9 9125-3723
 - **Instagram:** [@mikaelpsicologo](https://www.instagram.com/mikaelpsicologo/)
 - **Localização:** Criciúma/SC

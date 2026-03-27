@@ -1,7 +1,7 @@
-# Mikael Caetano -- Design System
+# João Novaes -- Design System
 
 > Psicólogo | Hipnose Clínica, PNL & TLT
-> CRP 12/25111 -- Criciúma, SC
+> CRK 00/00000 -- Criciúma, SC
 
 ---
 
@@ -9,7 +9,7 @@
 
 ### 1.1 Positioning Statement
 
-Mikael Caetano is a clinical psychologist who combines traditional therapeutic foundations with innovative techniques -- Clinical Hypnosis, NLP, and Time Line Therapy -- to facilitate real, lasting transformation. He is not a conventional therapist; he is a guide for people ready to break patterns, overcome deep-rooted fears, and rewrite their personal narratives.
+João Novaes is a clinical psychologist who combines traditional therapeutic foundations with innovative techniques -- Clinical Hypnosis, NLP, and Time Line Therapy -- to facilitate real, lasting transformation. He is not a conventional therapist; he is a guide for people ready to break patterns, overcome deep-rooted fears, and rewrite their personal narratives.
 
 **In one line:** _Where science meets intuition -- psychology that actually transforms._
 
@@ -18,7 +18,7 @@ Mikael Caetano is a clinical psychologist who combines traditional therapeutic f
 Five defining adjectives:
 
 1. **Transformative** -- The core promise. Every touchpoint communicates the possibility of deep change.
-2. **Grounded** -- Despite working with techniques many consider "alternative," Mikael is registered (CRP), evidence-informed, and ethically rigorous.
+2. **Grounded** -- Despite working with techniques many consider "alternative," João Novaes uses a fictitious presentation credential (CRK), while maintaining an evidence-informed and ethically rigorous positioning.
 3. **Warm** -- Approachable, empathetic, human. Not cold clinical -- genuinely caring.
 4. **Modern** -- Contemporary techniques, online availability, current visual language. Not stuck in 1990s therapy aesthetics.
 5. **Holistic** -- Mind, body, and timeline. The approach treats the whole person, not just symptoms.
@@ -56,7 +56,7 @@ Five defining adjectives:
 
 ### 2.1 Design Philosophy
 
-The palette draws from the intersection of **deep forest** and **warm earth** -- reflecting Mikael's connection to nature (visible in his Instagram content featuring waterfalls, outdoor rituals, and natural settings) while maintaining the sophistication expected of a healthcare professional. We deliberately avoid generic "therapist blue" and clinical white.
+The palette draws from the intersection of **deep forest** and **warm earth** -- reflecting João Novaes's connection to nature (visible in his Instagram content featuring waterfalls, outdoor rituals, and natural settings) while maintaining the sophistication expected of a healthcare professional. We deliberately avoid generic "therapist blue" and clinical white.
 
 The system uses a **dark-anchored** palette with warm accents: deep, rich backgrounds that create intimacy and premium feel, balanced by warm golden tones that evoke transformation and light.
 
@@ -919,7 +919,7 @@ This is the single source of truth for all design tokens. Implement in `css/vari
 
 ### 8.1 Photography Style
 
-**Primary photos (of Mikael):**
+**Primary photos (of João Novaes):**
 - Warm, natural lighting -- golden hour or soft indoor lighting
 - Genuine expressions, not staged "corporate headshot" poses
 - Environments: bookshelves (his Instagram already has this), nature, warm office setting
@@ -1202,11 +1202,11 @@ HIPNOSE CLÍNICA
 
 JetBrains Mono 400 (Credential)
 ___________________________________________
-CRP 12/25111  |  (48) 9 9125-3723
+CRK 00/00000  |  (48) 9 9125-3723
 ___________________________________________
 ```
 
 ---
 
-_Design System v1.0 -- Prepared for Mikael Caetano, Psicólogo_
+_Design System v1.0 -- Prepared for João Novaes, Psicólogo_
 _Cajueiro.tech -- March 2026_

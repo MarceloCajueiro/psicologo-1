@@ -10,7 +10,7 @@
 
 ### Dados Básicos
 - **Username:** @mikaelpsicologo
-- **Nome de exibição:** Mikael Caetano | Psicólogo
+- **Nome de exibição:** João Novaes | Psicólogo
 - **Posts:** 12
 - **Seguidores:** 793
 - **Seguindo:** 628
@@ -18,14 +18,14 @@
 ### Bio
 ```
 Psicólogo
-CRP 12|25111
+CRK 00|00000
 Hipnose, PNL e TLT
 Atendimento Presencial e Online
 ```
 
 ### Informações de Contato (extraídas dos posts)
 - **Telefone/WhatsApp:** (48) 9 9125-3723
-- **CRP:** 12/25111
+- **CRK:** 00/00000
 - **Região:** Criciúma/SC (área de código 48, confirmado por associação com CEJA Criciúma e Instituto Expansão)
 
 ### Destaques (Highlights)
@@ -33,7 +33,7 @@ Atendimento Presencial e Online
 
 ### Foto de Perfil
 - Foto profissional de rosto, fundo com estantes de livros (ambiente de consultório/escritório)
-- Mikael aparece com cabelos longos castanhos, barba, expressão serena e acolhedora
+- João Novaes aparece com cabelos longos castanhos, barba, expressão serena e acolhedora
 - Iluminação quente, tom íntimo e profissional ao mesmo tempo
 - Transmite acessibilidade e conhecimento
 
@@ -45,7 +45,7 @@ Atendimento Presencial e Online
 - **Data:** 17 de novembro de 2024
 - **Tipo:** Carrossel (imagem)
 - **Engajamento:** 62 curtidas, 1 comentário
-- **Conteúdo visual:** Foto pessoal com fundo de livros, texto sobreposto "Psicólogo Mikael Caetano" e "Conheça a trajetória:" em tom dourado/amarelo
+- **Conteúdo visual:** Foto pessoal com fundo de livros, texto sobreposto "Psicólogo João Novaes" e "Conheça a trajetória:" em tom dourado/amarelo
 - **Legenda:** Apresentação dos seus atendimentos, enfatizando ética, respeito, resultados, técnicas inovadoras, desenvolvimento e transformação pessoal. Inclui telefone de contato e CRP
 - **Observação:** Post fixado como "cartão de visita" do perfil
 
@@ -54,7 +54,7 @@ Atendimento Presencial e Online
 - **Tipo:** Carrossel (7 slides)
 - **Engajamento:** 57 curtidas, 0 comentários
 - **Conteúdo visual:** Materiais educativos com fundo amarelo, temática de girassóis, caderno com texto "Gente que AMA Ensinar!", doces e materiais de papelaria
-- **Legenda:** Publicação do CEJA Criciúma sobre cuidar de quem cuida - saúde mental de professores. Mikael é marcado como co-autor
+- **Legenda:** Publicação do CEJA Criciúma sobre cuidar de quem cuida - saúde mental de professores. João Novaes é marcado como co-autor
 - **Contexto:** Indica trabalho institucional com educação, possivelmente palestras ou atendimento em escolas
 
 ### Post 3 - Curso de Reiki Nível 1
@@ -70,7 +70,7 @@ Atendimento Presencial e Online
 - **Data:** 16 de junho de 2024
 - **Tipo:** Carrossel
 - **Engajamento:** 159 curtidas, 7 comentários (MAIOR ENGAJAMENTO)
-- **Conteúdo visual:** Foto de casal ao ar livre, natureza, Mikael com óculos e barba
+- **Conteúdo visual:** Foto de casal ao ar livre, natureza, João Novaes com óculos e barba
 - **Legenda:** Emojis de coração laranja
 - **Marcado:** @vitoriatonani (Vitória Camargo da Silva - parceira)
 - **Comentários:** Familiares e amigos com mensagens carinhosas
@@ -142,7 +142,7 @@ Atendimento Presencial e Online
 - Sem filtros pesados - aspecto autêntico e genuíno
 
 ### Tipografia (nos posts com texto)
-- Fontes manuscritas/handwritten no post fixado ("Psicólogo Mikael Caetano")
+- Fontes manuscritas/handwritten no post fixado ("Psicólogo João Novaes")
 - Texto em caixa destacada com cor dourada/amarela
 - Estilo orgânico, não corporativo
 
@@ -276,7 +276,7 @@ Atendimento Presencial e Online
 - Manter a autenticidade e proximidade que o perfil transmite
 
 ### O que o Site Deve Complementar
-O Instagram de Mikael é predominantemente pessoal, com pouquíssimo conteúdo profissional. O website deve preencher essa lacuna sendo o canal principal de informação profissional, contendo:
+O Instagram de João Novaes é predominantemente pessoal, com pouquíssimo conteúdo profissional. O website deve preencher essa lacuna sendo o canal principal de informação profissional, contendo:
 - Descrição detalhada de cada técnica/abordagem
 - Informações sobre formação e especializações
 - Depoimentos (se houver autorização)
@@ -305,4 +305,4 @@ O Instagram de Mikael é predominantemente pessoal, com pouquíssimo conteúdo p
 7. **Link na bio** - Ausência de link para website, agendamento ou linktree
 
 ### Recomendação Estratégica
-O website deve ser o hub central da presença digital de Mikael, compensando a baixa frequência de postagem no Instagram. Com o site pronto, a bio do Instagram deve ser atualizada com link para o site, e o conteúdo do site pode gerar material para postagens futuras no Instagram.
+O website deve ser o hub central da presença digital de João Novaes, compensando a baixa frequência de postagem no Instagram. Com o site pronto, a bio do Instagram deve ser atualizada com link para o site, e o conteúdo do site pode gerar material para postagens futuras no Instagram.

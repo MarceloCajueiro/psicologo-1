@@ -2,7 +2,7 @@
 
 ## Projeto
 
-Website profissional estático para o Psicólogo Mikael Caetano (CRP 12/25111). Single-page, hospedado no Cloudflare Pages.
+Website profissional estático para o Psicólogo João Novaes (CRK 00/00000). Single-page, hospedado no Cloudflare Pages.
 
 ## Rodar localmente
 

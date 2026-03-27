@@ -1,7 +1,7 @@
-# Pesquisa de Conteúdo: Modalidades Terapêuticas — Psicólogo Mikael Caetano
+# Pesquisa de Conteúdo: Modalidades Terapêuticas — Psicólogo João Novaes
 
 > **Documento de referência para criação de conteúdo SEO-otimizado**
-> Profissional: Mikael Caetano — CRP 12/25111
+> Profissional: João Novaes — CRK 00/00000
 > Especialidades: Hipnose Clínica, PNL, Terapia da Linha do Tempo (TLT)
 > Localização: Criciúma, SC | Atendimento presencial e online
 > Data da pesquisa: 26/03/2026
@@ -767,7 +767,7 @@ R: Sim. Todo o conteúdo das sessões é protegido pelo sigilo profissional, con
 ### 8.1 Elementos de Credibilidade
 
 **Registro profissional:**
-- CRP 12/25111 — visível em todas as páginas
+- CRK 00/00000 — visível em todas as páginas
 - Link para verificação no site do CRP-SC
 - Menção à regulamentação do CFP para hipnose (Resolução 013/2000)
 
@@ -784,7 +784,7 @@ R: Sim. Todo o conteúdo das sessões é protegido pelo sigilo profissional, con
 
 ### 8.2 Tom de Voz Sugerido
 
-O tom deve refletir a filosofia do Mikael: **profissional, ético, comprometido com mudança real e duradoura**.
+O tom deve refletir a filosofia de João Novaes: **profissional, ético, comprometido com mudança real e duradoura**.
 
 **Características do tom:**
 - **Profissional, mas acessível:** Demonstra conhecimento técnico sem ser hermético. Traduz conceitos complexos em linguagem compreensível
@@ -838,66 +838,66 @@ O tom deve refletir a filosofia do Mikael: **profissional, ético, comprometido 
 ### 9.1 Página Inicial (Home)
 
 **Title Tag:**
-`Psicólogo Mikael Caetano — Hipnose Clínica, PNL e TLT | Criciúma, SC`
+`Psicólogo João Novaes — Hipnose Clínica, PNL e TLT | Criciúma, SC`
 
 **Meta Description:**
-`Psicólogo Mikael Caetano (CRP 12/25111) em Criciúma, SC. Especialista em Hipnose Clínica, PNL e Terapia da Linha do Tempo. Atendimento presencial e online. Agende sua consulta.`
+`Psicólogo João Novaes (CRK 00/00000) em Criciúma, SC. Especialista em Hipnose Clínica, PNL e Terapia da Linha do Tempo. Atendimento presencial e online. Agende sua consulta.`
 
 ### 9.2 Página: Hipnose Clínica
 
 **Title Tag:**
-`Hipnose Clínica em Criciúma — Psicólogo Mikael Caetano | CRP 12/25111`
+`Hipnose Clínica em Criciúma — Psicólogo João Novaes | CRK 00/00000`
 
 **Meta Description:**
-`A hipnose clínica é uma ferramenta reconhecida pelo CFP para tratamento de ansiedade, fobias, hábitos e dor crônica. Sessões presenciais e online com Psicólogo Mikael Caetano em Criciúma, SC.`
+`A hipnose clínica é uma ferramenta reconhecida pelo CFP para tratamento de ansiedade, fobias, hábitos e dor crônica. Sessões presenciais e online com Psicólogo João Novaes em Criciúma, SC.`
 
 ### 9.3 Página: PNL
 
 **Title Tag:**
-`PNL — Programação Neurolinguística na Psicologia | Psicólogo Mikael Caetano`
+`PNL — Programação Neurolinguística na Psicologia | Psicólogo João Novaes`
 
 **Meta Description:**
-`Supere crenças limitantes, melhore sua comunicação e alcance seus objetivos com PNL aplicada à psicologia. Psicólogo Mikael Caetano — atendimento em Criciúma, SC e online.`
+`Supere crenças limitantes, melhore sua comunicação e alcance seus objetivos com PNL aplicada à psicologia. Psicólogo João Novaes — atendimento em Criciúma, SC e online.`
 
 ### 9.4 Página: Terapia da Linha do Tempo
 
 **Title Tag:**
-`Terapia da Linha do Tempo (TLT) — Liberte-se de Emoções Negativas | Psicólogo Mikael`
+`Terapia da Linha do Tempo (TLT) — Liberte-se de Emoções Negativas | Psicólogo João Novaes`
 
 **Meta Description:**
-`A Terapia da Linha do Tempo vai à raiz de emoções como raiva, medo, tristeza e culpa, promovendo mudanças profundas e duradouras. Sessões presenciais e online. Psicólogo Mikael Caetano, Criciúma, SC.`
+`A Terapia da Linha do Tempo vai à raiz de emoções como raiva, medo, tristeza e culpa, promovendo mudanças profundas e duradouras. Sessões presenciais e online. Psicólogo João Novaes, Criciúma, SC.`
 
 ### 9.5 Página: Sobre / Quem Sou
 
 **Title Tag:**
-`Sobre Mikael Caetano — Psicólogo CRP 12/25111 | Criciúma, SC`
+`Sobre João Novaes — Psicólogo CRK 00/00000 | Criciúma, SC`
 
 **Meta Description:**
-`Conheça o Psicólogo Mikael Caetano, especialista em Hipnose Clínica, PNL e Terapia da Linha do Tempo. Formação, abordagem e filosofia de trabalho. Criciúma, SC — atendimento presencial e online.`
+`Conheça o Psicólogo João Novaes, especialista em Hipnose Clínica, PNL e Terapia da Linha do Tempo. Formação, abordagem e filosofia de trabalho. Criciúma, SC — atendimento presencial e online.`
 
 ### 9.6 Página: Atendimento Online
 
 **Title Tag:**
-`Psicólogo Online — Hipnose, PNL e TLT por Videochamada | Mikael Caetano`
+`Psicólogo Online — Hipnose, PNL e TLT por Videochamada | João Novaes`
 
 **Meta Description:**
-`Atendimento psicológico online com Hipnose Clínica, PNL e Terapia da Linha do Tempo. Psicólogo Mikael Caetano (CRP 12/25111). Atende pacientes de todo o Brasil por videochamada.`
+`Atendimento psicológico online com Hipnose Clínica, PNL e Terapia da Linha do Tempo. Psicólogo João Novaes (CRK 00/00000). Atende pacientes de todo o Brasil por videochamada.`
 
 ### 9.7 Página: Contato / Agendar
 
 **Title Tag:**
-`Agende sua Consulta — Psicólogo Mikael Caetano | Criciúma, SC`
+`Agende sua Consulta — Psicólogo João Novaes | Criciúma, SC`
 
 **Meta Description:**
-`Agende sua sessão presencial ou online com o Psicólogo Mikael Caetano. Hipnose Clínica, PNL e Terapia da Linha do Tempo. Atendimento em Criciúma, SC e online para todo o Brasil.`
+`Agende sua sessão presencial ou online com o Psicólogo João Novaes. Hipnose Clínica, PNL e Terapia da Linha do Tempo. Atendimento em Criciúma, SC e online para todo o Brasil.`
 
 ### 9.8 Página: Abordagem Integrada
 
 **Title Tag:**
-`Hipnose + PNL + TLT — Abordagem Terapêutica Integrada | Psicólogo Mikael Caetano`
+`Hipnose + PNL + TLT — Abordagem Terapêutica Integrada | Psicólogo João Novaes`
 
 **Meta Description:**
-`Descubra como a combinação de Hipnose Clínica, PNL e Terapia da Linha do Tempo oferece um tratamento mais completo e eficaz. Psicólogo Mikael Caetano — Criciúma, SC e online.`
+`Descubra como a combinação de Hipnose Clínica, PNL e Terapia da Linha do Tempo oferece um tratamento mais completo e eficaz. Psicólogo João Novaes — Criciúma, SC e online.`
 
 ---
 

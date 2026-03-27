@@ -467,7 +467,7 @@ Qualquer pessoa pode fazer uma denúncia ao CRP. As comissões de orientação e
 ## 10. Resumo Executivo
 
 ### O que deve constar no site:
-- Nome completo + CRP + "Psicólogo(a)"
+- Nome completo + CRK + "Psicólogo(a)"
 - Formação, abordagem e áreas de atuação
 - Informações sobre o processo terapêutico
 - Conteúdo educativo

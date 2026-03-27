@@ -18,8 +18,8 @@ Documento que registra as decisões de design tomadas durante o desenvolvimento 
 
 ### Motivação
 
-- **Por que verde floresta e não azul clínico?** O benchmark internacional mostrou que os melhores sites de psicólogos evitam o azul genérico de saúde. Verde profundo transmite confiança, crescimento e natureza - alinhado com o perfil do Mikael no Instagram (fotos em ambientes naturais, cachoeiras, livros).
-- **Por que dourado e não terracotta?** A análise do Instagram revelou que o Mikael já usa tons dourados/âmbar em seus posts profissionais. O dourado reforça a identidade existente.
+- **Por que verde floresta e não azul clínico?** O benchmark internacional mostrou que os melhores sites de psicólogos evitam o azul genérico de saúde. Verde profundo transmite confiança, crescimento e natureza - alinhado com o perfil de João Novaes no Instagram (fotos em ambientes naturais, cachoeiras, livros).
+- **Por que dourado e não terracotta?** A análise do Instagram revelou que João Novaes já usa tons dourados/âmbar em seus posts profissionais. O dourado reforça a identidade existente.
 - **Por que marfim e não branco puro?** O `#FAF7F2` elimina a frieza clínica. A temperatura quente do fundo cria acolhimento imediato - fundamental para um site de psicologia.
 
 ---
@@ -57,7 +57,7 @@ Documento que registra as decisões de design tomadas durante o desenvolvimento 
 
 - A foto disponível (211x210px) é muito pequena para uso em hero de tela cheia
 - Uma hero focada em texto é mais impactante quando a headline é forte
-- A foto do Mikael aparece na seção "Sobre", onde há contexto biográfico
+- A foto de João Novaes aparece na seção "Sobre", onde há contexto biográfico
 - Evita redundância visual (mesma foto aparecendo 2x)
 - No mobile, o layout fica mais limpo sem imagem competindo com o CTA
 
@@ -148,7 +148,7 @@ Documento que registra as decisões de design tomadas durante o desenvolvimento 
 - Formulários de contato em sites de psicólogos têm taxa de conversão baixa
 - WhatsApp é o canal natural de comunicação no Brasil
 - Reduz fricção: 1 clique vs preencher 4+ campos
-- O Mikael já divulga o WhatsApp no Instagram
+- João Novaes já divulga o WhatsApp no Instagram
 - Botão flutuante garante acesso em qualquer ponto da página
 
 ---

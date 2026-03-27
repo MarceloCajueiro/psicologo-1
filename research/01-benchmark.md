@@ -743,13 +743,13 @@ CTA: Agendar / WhatsApp
 
 ## Resumo Executivo
 
-### Principais Takeaways para o Projeto Mikael Psicólogo
+### Principais Takeaways para o Projeto João Novaes Psicólogo
 
 1. **Paleta recomendada:** Verde profundo (forest green) + off-white quente + amber sutil — transmite autoridade masculina + calma + profissionalismo sem frieza.
 
 2. **Tipografia:** Josefin Sans ou Playfair Display para headlines (autoridade com personalidade) + Inter ou Merriweather para body (legibilidade + calor).
 
-3. **Hero section:** Split layout com foto profissional do Mikael à direita, headline empática à esquerda, CTA "Agendar Consulta" em destaque. Credenciais visíveis (CRP + especializações).
+3. **Hero section:** Split layout com foto profissional do João Novaes à direita, headline empática à esquerda, CTA "Agendar Consulta" em destaque. Credenciais visíveis (CRK + especializações).
 
 4. **Abordagem integradora:** Posicionar TCC + Hipnose + PNL como "abordagem integradora personalizada" — não como 3 serviços separados. Foco em resultados (superação de ansiedade, fobias, estresse) e não em técnicas.
 
